@@ -1,2 +1,2 @@
 # kakao_clone
- cloning a kakaotalk
+ kakao desktop app clone
